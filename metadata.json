@@ -1,0 +1,6 @@
+{
+  "name": "Rawdhwa Youth Association",
+  "description": "A portal for Rawdhwa Youth Association members to check and track their shares and transactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
